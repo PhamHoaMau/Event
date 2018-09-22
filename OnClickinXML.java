@@ -9,7 +9,7 @@ import android.widget.TextView;
 public class OnClickinXML extends AppCompatActivity   {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.onclickinxml);
     }
     public void btn_tong(View view) {
         EditText edita = findViewById(R.id.edt_soa);
